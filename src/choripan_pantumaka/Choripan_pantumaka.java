@@ -15,7 +15,7 @@ public class Choripan_pantumaka {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Tu sabes si la hermeneutica telurica incaica transtrueca de la peripatetica neoterica de la filosofia aristotelica, se ve influenciada por inocuidad factica de los dialogos socraticos no dogmaticos? ");
+        System.out.println("Tu sabes si la hermeneutica telurica incaica transtrueca de la peripatetica neoterica de la filosofia aristotelica, se ve influenciada por inocuidad factica de los dialogos socraticos no dogmaticos ? ");
     }
     
 }
