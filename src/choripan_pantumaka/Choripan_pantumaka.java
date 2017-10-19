@@ -16,6 +16,11 @@ public class Choripan_pantumaka {
      */
     public static void main(String[] args) {
         System.out.println("Tu sabes si la hermeneutica telurica incaica transtrueca de la peripatetica neoterica de la filosofia aristotelica, se ve influenciada por inocuidad factica de los dialogos socraticos no dogmaticos ? ");
+    
+        System.out.println("¡Por supuesto que lo sé guapi! *guiño guiño*");
+        
+        System.out.println("Y TÚ SABES... ¿Por qué en las pelis de miedo siempre hay una puerta de la que sale luz? ¿Qué hacen los espíritus allí? ¿Estarán haciendo fotocopias?");
+    
     }
     
 }
