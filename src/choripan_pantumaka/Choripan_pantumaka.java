@@ -21,6 +21,8 @@ public class Choripan_pantumaka {
         
         System.out.println("Y TÚ SABES... ¿Por qué en las pelis de miedo siempre hay una puerta de la que sale luz? ¿Qué hacen los espíritus allí? ¿Estarán haciendo fotocopias?");
     
+        
+        System.out.println("Calma, calma, contenga su ira. Su anhelo es yermo, y carente de virtud. Cuan incito es usted, mas no por ello carece del atavico desproposito antediluviano de la violencia irracional. Dejandose llevar por la inquina y la mezquina mas farisea, ambas correosas metas a todo lo que usted, como adalid del birlibirloque.");
     }
     
 }
