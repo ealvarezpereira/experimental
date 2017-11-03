@@ -6,7 +6,7 @@
 package choripan_pantumaka;
 
 /**
- *
+ * Estoy en la rama experimental
  * @author quique
  */
 public class Choripan_pantumaka {
